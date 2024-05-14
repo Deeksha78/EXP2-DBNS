@@ -1,13 +1,11 @@
-EXP NO 2: DDL COMMANDS-CREATE,ALTER,INSERT
+# EXP NO 2: DDL COMMANDS- CREATE,ALTER,INSERT
 
-DATE :
+### DATE : 07-03-2024
+### REGISTER NUMBER: 212222040031
 
-REGISTER NUMBER: 212222040031
-
-AIM:
-To study and write DDL commands and different types of constraints.
-
-THEORY:
+## AIM:
+ To study and write DDL commands and different types of constraints.
+## THEORY
 1. CREATE: This is used to create a new relation (table)
    Syntax: CREATE TABLE (field_1 data_type(size),field_2 data_type(size), .. . );
 
